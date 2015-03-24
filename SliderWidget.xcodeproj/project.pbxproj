@@ -13,6 +13,17 @@
 		79FBD4F31AC0EC420021FB3F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD4F21AC0EC420021FB3F /* Images.xcassets */; };
 		79FBD4F61AC0EC420021FB3F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD4F41AC0EC420021FB3F /* LaunchScreen.xib */; };
 		79FBD5021AC0EC430021FB3F /* SliderWidgetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FBD5011AC0EC430021FB3F /* SliderWidgetTests.swift */; };
+		79FBD5181AC0F1B00021FB3F /* Background@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD50F1AC0F1B00021FB3F /* Background@1x.png */; };
+		79FBD5191AC0F1B00021FB3F /* Background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5101AC0F1B00021FB3F /* Background@2x.png */; };
+		79FBD51A1AC0F1B00021FB3F /* Background@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5111AC0F1B00021FB3F /* Background@3x.png */; };
+		79FBD51B1AC0F1B00021FB3F /* ForegroundTicker.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5121AC0F1B00021FB3F /* ForegroundTicker.png */; };
+		79FBD51C1AC0F1B00021FB3F /* ForegroundTicker@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5131AC0F1B00021FB3F /* ForegroundTicker@2x.png */; };
+		79FBD51D1AC0F1B00021FB3F /* ForegroundTicker@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5141AC0F1B00021FB3F /* ForegroundTicker@3x.png */; };
+		79FBD51E1AC0F1B00021FB3F /* Slider Marks.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5151AC0F1B00021FB3F /* Slider Marks.png */; };
+		79FBD51F1AC0F1B00021FB3F /* Slider Marks@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5161AC0F1B00021FB3F /* Slider Marks@2x.png */; };
+		79FBD5201AC0F1B00021FB3F /* Slider Marks@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5171AC0F1B00021FB3F /* Slider Marks@3x.png */; };
+		79FBD5221AC113970021FB3F /* SliderWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FBD5211AC113970021FB3F /* SliderWidget.swift */; };
+		79FBD5241AC113B50021FB3F /* SliderWidget.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79FBD5231AC113B50021FB3F /* SliderWidget.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +47,17 @@
 		79FBD4FB1AC0EC420021FB3F /* SliderWidgetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SliderWidgetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79FBD5001AC0EC430021FB3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79FBD5011AC0EC430021FB3F /* SliderWidgetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderWidgetTests.swift; sourceTree = "<group>"; };
+		79FBD50F1AC0F1B00021FB3F /* Background@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background@1x.png"; sourceTree = "<group>"; };
+		79FBD5101AC0F1B00021FB3F /* Background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background@2x.png"; sourceTree = "<group>"; };
+		79FBD5111AC0F1B00021FB3F /* Background@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background@3x.png"; sourceTree = "<group>"; };
+		79FBD5121AC0F1B00021FB3F /* ForegroundTicker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ForegroundTicker.png; sourceTree = "<group>"; };
+		79FBD5131AC0F1B00021FB3F /* ForegroundTicker@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ForegroundTicker@2x.png"; sourceTree = "<group>"; };
+		79FBD5141AC0F1B00021FB3F /* ForegroundTicker@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ForegroundTicker@3x.png"; sourceTree = "<group>"; };
+		79FBD5151AC0F1B00021FB3F /* Slider Marks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Slider Marks.png"; sourceTree = "<group>"; };
+		79FBD5161AC0F1B00021FB3F /* Slider Marks@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Slider Marks@2x.png"; sourceTree = "<group>"; };
+		79FBD5171AC0F1B00021FB3F /* Slider Marks@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Slider Marks@3x.png"; sourceTree = "<group>"; };
+		79FBD5211AC113970021FB3F /* SliderWidget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SliderWidget.swift; sourceTree = SOURCE_ROOT; };
+		79FBD5231AC113B50021FB3F /* SliderWidget.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SliderWidget.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,8 +101,19 @@
 			children = (
 				79FBD4EB1AC0EC420021FB3F /* AppDelegate.swift */,
 				79FBD4ED1AC0EC420021FB3F /* ViewController.swift */,
+				79FBD5211AC113970021FB3F /* SliderWidget.swift */,
+				79FBD5231AC113B50021FB3F /* SliderWidget.xib */,
 				79FBD4EF1AC0EC420021FB3F /* Main.storyboard */,
 				79FBD4F21AC0EC420021FB3F /* Images.xcassets */,
+				79FBD50F1AC0F1B00021FB3F /* Background@1x.png */,
+				79FBD5101AC0F1B00021FB3F /* Background@2x.png */,
+				79FBD5111AC0F1B00021FB3F /* Background@3x.png */,
+				79FBD5121AC0F1B00021FB3F /* ForegroundTicker.png */,
+				79FBD5131AC0F1B00021FB3F /* ForegroundTicker@2x.png */,
+				79FBD5141AC0F1B00021FB3F /* ForegroundTicker@3x.png */,
+				79FBD5151AC0F1B00021FB3F /* Slider Marks.png */,
+				79FBD5161AC0F1B00021FB3F /* Slider Marks@2x.png */,
+				79FBD5171AC0F1B00021FB3F /* Slider Marks@3x.png */,
 				79FBD4F41AC0EC420021FB3F /* LaunchScreen.xib */,
 				79FBD4E91AC0EC420021FB3F /* Supporting Files */,
 			);
@@ -192,8 +225,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79FBD5201AC0F1B00021FB3F /* Slider Marks@3x.png in Resources */,
+				79FBD51A1AC0F1B00021FB3F /* Background@3x.png in Resources */,
+				79FBD5191AC0F1B00021FB3F /* Background@2x.png in Resources */,
+				79FBD5241AC113B50021FB3F /* SliderWidget.xib in Resources */,
+				79FBD51D1AC0F1B00021FB3F /* ForegroundTicker@3x.png in Resources */,
 				79FBD4F11AC0EC420021FB3F /* Main.storyboard in Resources */,
+				79FBD51C1AC0F1B00021FB3F /* ForegroundTicker@2x.png in Resources */,
+				79FBD51F1AC0F1B00021FB3F /* Slider Marks@2x.png in Resources */,
+				79FBD51E1AC0F1B00021FB3F /* Slider Marks.png in Resources */,
 				79FBD4F61AC0EC420021FB3F /* LaunchScreen.xib in Resources */,
+				79FBD51B1AC0F1B00021FB3F /* ForegroundTicker.png in Resources */,
+				79FBD5181AC0F1B00021FB3F /* Background@1x.png in Resources */,
 				79FBD4F31AC0EC420021FB3F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -213,6 +256,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79FBD4EE1AC0EC420021FB3F /* ViewController.swift in Sources */,
+				79FBD5221AC113970021FB3F /* SliderWidget.swift in Sources */,
 				79FBD4EC1AC0EC420021FB3F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,6 +451,7 @@
 				79FBD5071AC0EC430021FB3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79FBD5081AC0EC430021FB3F /* Build configuration list for PBXNativeTarget "SliderWidgetTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +460,7 @@
 				79FBD50A1AC0EC430021FB3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
